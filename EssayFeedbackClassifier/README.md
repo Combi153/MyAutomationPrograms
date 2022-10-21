@@ -19,7 +19,8 @@
 
 ## 결과
 * 작성자의 익명성을 보장하며, 보기 좋은 피드백 파일을 손쉽게 만들 수 있었다. 이 모든 과정을 30초 내에 수행할 수 있게 되었다.
+* 결과 사진 예시
+<img width="50%" src="https://github.com/Combi153/MyAutomationPrograms/blob/main/image/%EA%B0%9C%EC%9D%B8%EC%B9%BC%EB%9F%BC%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EC%98%88%EC%8B%9C.png"/>
 
-결과 사진 예시
-  
-결과 사진 예시2
+* 결과 사진 예시2
+<img width="50%" src="https://github.com/Combi153/MyAutomationPrograms/blob/main/image/%EA%B0%9C%EC%9D%B8%EC%B9%BC%EB%9F%BC%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EC%98%88%EC%8B%9C2.png"/>

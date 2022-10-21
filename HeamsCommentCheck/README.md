@@ -5,10 +5,11 @@
 * Heams란, 경제학회에서 제공하는 경제신문기사 메일링 서비스이다.
 * 학회원들은 매일 Heams를 읽고 그에 관한 생각 혹은 분석을 댓글로 남겨야 한다.
 * Heams의 신문기사가 게재되는 플랫폼은 네이버 카페이며, 네이버 카페 게시글에 댓글이 달리는 형식이다.
+* 게시글 예시
+<img width="90%" src="https://github.com/Combi153/MyAutomationPrograms/blob/main/image/%ED%9E%98%EC%A6%88%20%EA%B2%8C%EC%8B%9C%EA%B8%80.png"/>
 
-사진 예시 1
-
-사진 예시 2
+* 댓글 예시
+<img width="90%" src="https://github.com/Combi153/MyAutomationPrograms/blob/main/image/%ED%9E%98%EC%A6%88%20%EB%8C%93%EA%B8%80.png"/>
 
 ## 작동방식
 1. 네이버 카페의 화면을 복사/붙여넣기한 파일, 학회원들의 이름을 저장한 파일 입력한다.
@@ -20,9 +21,10 @@
 ## 결과
 * 모든 댓글과 작성자를 일일히 비교해 수행하던 일을 1분 내에 수행할 수 있었다.
 * 정확한 벌금 계산을 할 수 있었다.
-  
+* 결과 사진 예시
+<img width="80%" src="https://github.com/Combi153/MyAutomationPrograms/blob/main/image/%ED%9E%98%EC%A6%88%20%EC%98%88%EC%8B%9C.png"/>
 
-결과 사진 예시
+
 
 ## 역경과 아쉬움
 
